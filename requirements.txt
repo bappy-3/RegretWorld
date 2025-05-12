@@ -1,2 +1,4 @@
-django
+Django==4.2.5
+gunicorn==21.2.0
+whitenoise==6.6.0
 pillow
