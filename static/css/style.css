@@ -1,0 +1,75 @@
+body {
+    background-color: #3A3D40;
+    color: #F0F0F0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .custom-navbar {
+    background-color: #355C7D;
+    padding: 0.75rem 2rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  }
+  
+  .navbar-brand img {
+    height: 45px;
+  }
+  
+  .navbar-dark .navbar-nav .nav-link {
+    color: #ffffff;
+    margin-right: 15px;
+    font-weight: 500;
+    transition: color 0.3s ease;
+  }
+  
+  .navbar-dark .navbar-nav .nav-link:hover {
+    color: #F67280;
+  }
+  
+  .dropdown-menu {
+    background-color: #6C5B7B;
+    border: none;
+  }
+  
+  .dropdown-menu a {
+    color: #F0F0F0;
+  }
+  
+  .dropdown-menu a:hover {
+    background-color: #F67280;
+    color: #fff;
+  }
+  
+  .main-container {
+    padding-top: 30px;
+  }
+  
+  .card {
+    background-color: #6C5B7B;
+    border: none;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+    border-radius: 10px;
+  }
+  
+  .card-title {
+    color: #F67280;
+  }
+  
+  .btn-highlight {
+    background-color: #F67280;
+    color: #fff;
+    border: none;
+    transition: background 0.3s;
+  }
+  
+  .btn-highlight:hover {
+    background-color: #C05060;
+  }
+  
+  hr {
+    border-color: #F67280;
+  }
+  
+
+
+  
